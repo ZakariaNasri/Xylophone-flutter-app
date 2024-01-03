@@ -5,8 +5,14 @@ This is a Flutter app that plays different sounds when you tap on the colored bu
 ## Installation
 
 -To run this app, you need to have Flutter installed on your machine. 
+
+
 -Then, clone this repository and open it. 
+
+
 -Run `flutter pub get` to install the dependencies.
+
+
 -Connect your device or emulator and run `flutter run` to launch the app.
 
 ## Usage
